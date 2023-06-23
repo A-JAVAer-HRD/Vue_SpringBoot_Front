@@ -6,6 +6,9 @@
 
 
 vue-admin-template
-**Live demo:** http://panjiachen.github.io/vue-admin-template
+http://panjiachen.github.io/vue-admin-template
+
+<img width="959" alt="image" src="https://github.com/A-JAVAer-HRD/Vue_SpringBoot_Front/assets/100411168/f081c55d-6231-49ec-9589-6e56f9497140">
+
 
 
